@@ -1,0 +1,14 @@
+{
+  "domain": "motorsport_calendar",
+  "name": "Motorsport Calendar (MotoGP + F1)",
+  "codeowners": ["@Flodu31"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Flodu31/ha-motorsport-calendar",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/Flodu31/ha-motorsport-calendar/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "1.1.0"
+}
